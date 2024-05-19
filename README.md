@@ -1,1 +1,1 @@
-# Ekart-FA4-Project
+Ekart backend code using Java, Springboot.
